@@ -17,7 +17,7 @@ function App() {
 
         <div class="carouselbox">
           <div class="carousel">
-
+            {/* carousel will go here */}
           </div>
 
           
